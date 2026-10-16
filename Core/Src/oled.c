@@ -1,6 +1,4 @@
-//
-// Created by Laity on 2026/10/15.
-//
+
 /**
  * @file oled.c
  * @brief 波特律动OLED驱动(SSD1306)

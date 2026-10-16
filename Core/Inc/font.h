@@ -1,6 +1,4 @@
-//
-// Created by Laity on 2026/10/15.
-//
+
 
 #ifndef MY_FONT_H
 #define MY_FONT_H

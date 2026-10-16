@@ -1,6 +1,3 @@
-//
-// Created by Laity on 2026/10/15.
-//
 
 
 #include "stm32f1xx_hal.h"

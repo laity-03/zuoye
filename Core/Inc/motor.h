@@ -1,6 +1,3 @@
-//
-// Created by Laity on 2026/10/15.
-//
 
 #ifndef MY_MOTOR_H
 #define MY_MOTOR_H

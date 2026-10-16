@@ -1,7 +1,5 @@
 #include "stm32f1xx_hal.h"
-//
-// Created by Laity on 2026/10/15.
-//
+
 #include "key.h"
 
 uint8_t key_read(void)
